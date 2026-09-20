@@ -1,5 +1,4 @@
 package part_a_factory_method.spawner;
-import part_a_factory_method.model;
 import part_a_factory_method.model.Enemy;
 
 public abstract class EnemySpawner {

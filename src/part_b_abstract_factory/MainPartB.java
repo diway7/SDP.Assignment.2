@@ -7,12 +7,12 @@ import part_b_abstract_factory.factory.WarriorEquipmentFactory;
 
 public class MainPartB {
     public static void main(String[] args) {
-        System.out.println("=== Initializing Mage Hero ===");
+        System.out.println("mage hero");
         HeroEquipmentFactory mageFactory = new MageEquipmentFactory();
         GameHero mage = new GameHero(mageFactory);
         mage.prepareForBattle();
 
-        System.out.println("\n=== Initializing Warrior Hero ===");
+        System.out.println("\nwarrior hero");
         HeroEquipmentFactory warriorFactory = new WarriorEquipmentFactory();
         GameHero warrior = new GameHero(warriorFactory);
         warrior.prepareForBattle();
