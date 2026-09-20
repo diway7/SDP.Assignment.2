@@ -1,5 +1,4 @@
-package src.part_a_factory_method.model;
-
+package part_a_factory_method.model;
 public class Goblin implements Enemy{
     @Override
     public void attack(){

@@ -1,4 +1,4 @@
-package src.part_a_factory_method.model;
+package part_a_factory_method.model;
 
 public class Dragon implements Enemy{
     @Override
