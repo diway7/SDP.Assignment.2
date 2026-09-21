@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8907edf7-92fa-4943-82e1-44196f14bc2f" name="Changes" comment="" />
+    <list default="true" id="8907edf7-92fa-4943-82e1-44196f14bc2f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part_b_abstract_factory/clients/GameHero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part_b_abstract_factory/clients/GameHero.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +31,7 @@
 }]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/diway7/SDP.Assignment1.Builder-Pattern.git",
+    "url": "https://github.com/diway7/SDP.Assignment.2.git",
     "accountId": "513c96e7-763c-4bb9-82d6-e012a7b653d8"
   }
 }]]></component>
@@ -54,6 +57,9 @@
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
